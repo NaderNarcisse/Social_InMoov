@@ -1,0 +1,10 @@
+names//fileName//
+Gauthier//people/Gauthier.png// 
+
+Obama//people/obama.jpg//
+
+Trump//people/Trump.png//
+
+nader//people/nader.png//
+
+Mathieu//people/Mathieu.png// 

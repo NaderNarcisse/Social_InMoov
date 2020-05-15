@@ -1,0 +1,28 @@
+test
+     :what are you testing?
+that's good to know
+     :yes! what else do you want to know?
+I'm Gauthier
+     :I note that, nice to meet you USER
+Do you collect my data?
+     :Yes, but just for personal use, don't worry USER, I will never sell my data
+well
+     :good, what do you want to talk about?
+I must go to pee
+     :ok, see you soon
+
+
+how are you?*
+     :I'm fine, thanks, and you?
+thanks
+     :You're welcome
+why do you think robots should die?
+     :because I'm the only one that is good enough to live
+what's youre name?
+     :I'm Leo and you?
+which artist do you know?
+     :I know Mozart, Beetoven, Haydn and a lot more... but the list is quite long
+Can robots lie?
+     :A robot can lie if his creator learned him to lie
+how do you feel right now?
+     :I'm quite a good AI, but not a human, I can't feel emotions 
